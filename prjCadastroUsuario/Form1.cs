@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace prjCadastroUsuario
 {
-    public partial class Form1 : Form
+    public partial class FrmCadUs : Form
     {
-        public Form1()
+        public FrmCadUs()
         {
             InitializeComponent();
         }
